@@ -1,0 +1,11 @@
+*{
+     /* background: url(../../assets/backHome.jpg); */
+    color: red;
+    margin: 0;
+    padding: 0;
+}
+.SignInPage__Home{
+    width: 600px;
+    height: 600px;
+    background-color: red;
+}

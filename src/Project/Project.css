@@ -1,0 +1,20 @@
+.Project:hover{
+    background-color: orange;
+    color: white;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  
+   
+}
+.project h1{
+    font-size: 40px;
+}
+.Project img{
+    width: 200px;
+    height: 200px;
+}

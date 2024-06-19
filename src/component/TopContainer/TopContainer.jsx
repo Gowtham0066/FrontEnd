@@ -4,10 +4,10 @@ import TopContent from '../TopContent/TopContent';
 import "../TopContainer/TopContainer.css"
 
 
-const TopContainer = () => {
+const TopContainer = ({setTab}) => {
   return (
    <Element name="about" className='topContainer'>
-    <TopContent></TopContent>
+    <TopContent setTab={setTab}></TopContent>
    </Element>
   )
 }
